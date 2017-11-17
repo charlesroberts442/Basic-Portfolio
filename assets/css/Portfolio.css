@@ -1,0 +1,32 @@
+figure {
+    display: inline-block;
+}
+
+.Portfolio_Caption {
+    position: absolute;
+    height: 20px;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+}
+
+#Tower_Caption{
+	width: 200px;
+	top: 160px;
+}
+
+#Wall_Caption{
+	width: 226px;
+	top: 160px;
+}
+
+#Liberty_Caption{
+
+	width:112px;
+	top:315px;
+}
+
+#Shuttle_Caption{
+	width:122px;
+	top:315px;
+}
